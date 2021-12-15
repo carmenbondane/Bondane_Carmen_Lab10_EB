@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bondane_Carmen_Lab10_EB", "Bondane_Carmen_Lab10_EB.csproj", "{57FE5A94-A956-4221-AB8C-3A5EEC937EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{E363829D-E9E6-4338-9F66-E09336D86C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FE5A94-A956-4221-AB8C-3A5EEC937EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FE5A94-A956-4221-AB8C-3A5EEC937EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FE5A94-A956-4221-AB8C-3A5EEC937EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FE5A94-A956-4221-AB8C-3A5EEC937EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E363829D-E9E6-4338-9F66-E09336D86C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E363829D-E9E6-4338-9F66-E09336D86C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E363829D-E9E6-4338-9F66-E09336D86C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E363829D-E9E6-4338-9F66-E09336D86C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2046EE-1FB6-4903-83D5-977646B03144}
+	EndGlobalSection
+EndGlobal
